@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "Caydens robot code"
+		},
+		{
+			"path": "gradle"
+		},
+		{
+			"path": "vendordeps"
+		},
+		{
+			"path": ".gradle"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": ".wpilib"
+		},
+		{
+			"path": "2024"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "build"
+		}
+	],
+	"settings": {}
+}
